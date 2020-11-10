@@ -1,0 +1,18 @@
+#reserve-modal .modal-header {
+  background-color: blueviolet;
+  color: white;
+}
+
+#reserve-modal .modal-body {
+  background-color: powderblue;
+}
+
+.modal-content .modal-header {
+  background-color: blueviolet;
+  color: white;
+}
+
+.modal-content .modal-body {
+  background-color: paleturquoise;
+}
+/*# sourceMappingURL=index-style.css.map */

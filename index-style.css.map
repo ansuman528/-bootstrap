@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,cADU,CACV,aAAa,CAAA;EACT,gBAAgB,EAAE,UAAU;EAC5B,KAAK,EAAE,KAAK;CACf;;AAJL,AAKI,cALU,CAKV,WAAW,CAAA;EACP,gBAAgB,EAAE,UAAU;CAC/B;;AAEL,AACI,cADU,CACV,aAAa,CAAA;EACT,gBAAgB,EAAE,UAAU;EAC5B,KAAK,EAAE,KAAK;CACf;;AAJL,AAKI,cALU,CAKV,WAAW,CAAA;EACP,gBAAgB,EAAE,aAAa;CAClC",
+    "sources": [
+        "index-style.scss"
+    ],
+    "names": [],
+    "file": "index-style.css"
+}
